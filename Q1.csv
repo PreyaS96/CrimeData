@@ -1,4 +1,4 @@
-Year,,CrimeTypes,Criminal Damage,Drugs,Fraud or Forgery,Other Notifiable Offences,Robbery,Sexual Offences,Theft and Handling,Violence Against The Person
+Year,NumberOfCrimes,CrimeTypes,Criminal Damage,Drugs,Fraud or Forgery,Other Notifiable Offences,Robbery,Sexual Offences,Theft and Handling,Violence Against The Person
 2011-01,9051,Burglary,5909,5001,1934,965,3277,803,22433,12536
 2011-02,7792,Burglary,5533,4924,1945,955,3116,722,21531,11807
 2011-03,8348,Burglary,6362,5345,2018,1050,3261,851,24377,13039
