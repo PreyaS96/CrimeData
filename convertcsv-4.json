@@ -1,0 +1,5186 @@
+[
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2356
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2184
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 988
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 616
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 357
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1029
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 249
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 249
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4064
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4918
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2440
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1261
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 842
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 399
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1171
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 301
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9755
+ },
+ {
+   "Year": 2011,
+   "Borough": "Barnet",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4199
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1497
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1736
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 934
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 327
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 195
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 362
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 149
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4027
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bexley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2757
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3777
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2404
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 4384
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 984
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 480
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2123
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 323
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7586
+ },
+ {
+   "Year": 2011,
+   "Borough": "Brent",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 7135
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3173
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2665
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1063
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 564
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 224
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 707
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 234
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8069
+ },
+ {
+   "Year": 2011,
+   "Borough": "Bromley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4626
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3421
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2085
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2563
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 827
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 452
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1449
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 337
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 13518
+ },
+ {
+   "Year": 2011,
+   "Borough": "Camden",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5580
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4645
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 3471
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2335
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 803
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 461
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1778
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 457
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10142
+ },
+ {
+   "Year": 2011,
+   "Borough": "Croydon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6613
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3868
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 3173
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2221
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 993
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 561
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1452
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 397
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10854
+ },
+ {
+   "Year": 2011,
+   "Borough": "Ealing",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 7202
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3715
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2649
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1501
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 763
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 401
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1134
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 283
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7849
+ },
+ {
+   "Year": 2011,
+   "Borough": "Enfield",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4200
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2552
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2819
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1405
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 583
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 363
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 866
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 376
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7387
+ },
+ {
+   "Year": 2011,
+   "Borough": "Greenwich",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5196
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2330
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2057
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2418
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 591
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 322
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1145
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 353
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8633
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hackney",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5306
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2524
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1745
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1512
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 506
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 440
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 781
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 198
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8935
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4307
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3609
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2701
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1586
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 514
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 246
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1414
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 309
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8382
+ },
+ {
+   "Year": 2011,
+   "Borough": "Haringey",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4667
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2602
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1463
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 683
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 635
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 301
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 650
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 161
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4140
+ },
+ {
+   "Year": 2011,
+   "Borough": "Harrow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2829
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2820
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1840
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1056
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 330
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 272
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 483
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 198
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 6469
+ },
+ {
+   "Year": 2011,
+   "Borough": "Havering",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3329
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3721
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2879
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1579
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 799
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 604
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 898
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 284
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9060
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hillingdon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5503
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2728
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2630
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1743
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 645
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 505
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 662
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 265
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8391
+ },
+ {
+   "Year": 2011,
+   "Borough": "Hounslow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5437
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2812
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2037
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1740
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 517
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 370
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1151
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 275
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9075
+ },
+ {
+   "Year": 2011,
+   "Borough": "Islington",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5142
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1733
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1150
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1628
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 655
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 248
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 609
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 160
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9337
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2741
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1338
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1150
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 670
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 383
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 139
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 239
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 163
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 3804
+ },
+ {
+   "Year": 2011,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2181
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3796
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 3056
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2995
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1003
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 390
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 3025
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 450
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10112
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lambeth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 7117
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3246
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2939
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2191
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 893
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 459
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1678
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 390
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8071
+ },
+ {
+   "Year": 2011,
+   "Borough": "Lewisham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6422
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2406
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1689
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1001
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 386
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 129
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 635
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 195
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4542
+ },
+ {
+   "Year": 2011,
+   "Borough": "Merton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2545
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3243
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2617
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2286
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1237
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 458
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2384
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 396
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10546
+ },
+ {
+   "Year": 2011,
+   "Borough": "Newham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6468
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3788
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2350
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2344
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 630
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 286
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1141
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 242
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8989
+ },
+ {
+   "Year": 2011,
+   "Borough": "Redbridge",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3802
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2088
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1398
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 537
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 379
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 164
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 198
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 150
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4136
+ },
+ {
+   "Year": 2011,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 1921
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3412
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 3135
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3471
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 720
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 536
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2368
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 474
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10223
+ },
+ {
+   "Year": 2011,
+   "Borough": "Southwark",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6585
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1625
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1567
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 553
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 176
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 110
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 296
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 196
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4537
+ },
+ {
+   "Year": 2011,
+   "Borough": "Sutton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2346
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2716
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2442
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3240
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 945
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 447
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1391
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 406
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8467
+ },
+ {
+   "Year": 2011,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5610
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3371
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2371
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1267
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1066
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 281
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1736
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 292
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8751
+ },
+ {
+   "Year": 2011,
+   "Borough": "Waltham Forest",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4984
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3089
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2183
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1053
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 563
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 278
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1262
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 305
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8202
+ },
+ {
+   "Year": 2011,
+   "Borough": "Wandsworth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4046
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3313
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2539
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 6347
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1842
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 814
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2158
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 484
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 16015
+ },
+ {
+   "Year": 2011,
+   "Borough": "Westminster",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 8395
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2446
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1711
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 952
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 748
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 258
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 749
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 237
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 5791
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3753
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4841
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1993
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 946
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1554
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 282
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1145
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 271
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10048
+ },
+ {
+   "Year": 2012,
+   "Borough": "Barnet",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3949
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1700
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1600
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 794
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 425
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 199
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 231
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 161
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4279
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bexley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2757
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3941
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2166
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3453
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1335
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 458
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1646
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 349
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7777
+ },
+ {
+   "Year": 2012,
+   "Borough": "Brent",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6408
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3448
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2258
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1013
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 618
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 243
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 597
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 219
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7617
+ },
+ {
+   "Year": 2012,
+   "Borough": "Bromley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4151
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2943
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1876
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2299
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1382
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 452
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1097
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 312
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 15658
+ },
+ {
+   "Year": 2012,
+   "Borough": "Camden",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5128
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4050
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 3090
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2371
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1147
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 493
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1941
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 441
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 11334
+ },
+ {
+   "Year": 2012,
+   "Borough": "Croydon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6580
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3947
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2609
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2173
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1214
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 478
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1235
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 346
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10493
+ },
+ {
+   "Year": 2012,
+   "Borough": "Ealing",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6855
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3724
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2145
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1143
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 943
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 302
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1124
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 281
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8074
+ },
+ {
+   "Year": 2012,
+   "Borough": "Enfield",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4247
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2321
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2235
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1320
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 769
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 370
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 586
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 329
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7462
+ },
+ {
+   "Year": 2012,
+   "Borough": "Greenwich",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5348
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2407
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1860
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2199
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 833
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 340
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1250
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 356
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10950
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hackney",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5740
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1868
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1471
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1653
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 875
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 338
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 698
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 233
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9195
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4253
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3442
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2180
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1541
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 868
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 281
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1128
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 323
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9291
+ },
+ {
+   "Year": 2012,
+   "Borough": "Haringey",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4748
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2520
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1243
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 704
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 642
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 223
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 655
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 168
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4317
+ },
+ {
+   "Year": 2012,
+   "Borough": "Harrow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2934
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2819
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1596
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1051
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 480
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 243
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 431
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 169
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 6268
+ },
+ {
+   "Year": 2012,
+   "Borough": "Havering",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3325
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3372
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2283
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1099
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 860
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 513
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 848
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 264
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8506
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hillingdon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5142
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2933
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2269
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1602
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 873
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 390
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 769
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 288
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8604
+ },
+ {
+   "Year": 2012,
+   "Borough": "Hounslow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5381
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2416
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1868
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1713
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 848
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 385
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1160
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 280
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 11690
+ },
+ {
+   "Year": 2012,
+   "Borough": "Islington",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5283
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1784
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1048
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1347
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 928
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 211
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 653
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 187
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10927
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2659
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1375
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1089
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 419
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 361
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 119
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 237
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 155
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 3878
+ },
+ {
+   "Year": 2012,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2267
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3612
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2512
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2296
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1026
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 406
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2685
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 407
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 13198
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lambeth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6917
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3298
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2435
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1441
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 913
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 339
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1305
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 394
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8338
+ },
+ {
+   "Year": 2012,
+   "Borough": "Lewisham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5875
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2031
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1329
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 845
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 592
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 160
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 564
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 153
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 5019
+ },
+ {
+   "Year": 2012,
+   "Borough": "Merton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2539
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3087
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2360
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1867
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1655
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 458
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2313
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 344
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 12344
+ },
+ {
+   "Year": 2012,
+   "Borough": "Newham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6634
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3400
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1726
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1942
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 916
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 293
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1035
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 223
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8517
+ },
+ {
+   "Year": 2012,
+   "Borough": "Redbridge",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4114
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2010
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1200
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 529
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 425
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 155
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 226
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 150
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4274
+ },
+ {
+   "Year": 2012,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2059
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3293
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2385
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2446
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1020
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 473
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2528
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 412
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 11376
+ },
+ {
+   "Year": 2012,
+   "Borough": "Southwark",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6489
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1538
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1358
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 557
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 291
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 164
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 303
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 182
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4202
+ },
+ {
+   "Year": 2012,
+   "Borough": "Sutton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2664
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2685
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2261
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3272
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1040
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 407
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1370
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 371
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9075
+ },
+ {
+   "Year": 2012,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6047
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2947
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1966
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1287
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 1123
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 307
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1353
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 246
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9234
+ },
+ {
+   "Year": 2012,
+   "Borough": "Waltham Forest",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4954
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3424
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2028
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1048
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 923
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 323
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1201
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 292
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10670
+ },
+ {
+   "Year": 2012,
+   "Borough": "Wandsworth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4123
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4084
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2259
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 4679
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 2392
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 648
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2315
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 423
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 34406
+ },
+ {
+   "Year": 2012,
+   "Borough": "Westminster",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 7155
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2230
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1639
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1090
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 89
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 286
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 528
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 266
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 5916
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barking and Dagenham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3921
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 4276
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1863
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1049
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 226
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 300
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 804
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 323
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9753
+ },
+ {
+   "Year": 2013,
+   "Borough": "Barnet",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4315
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1791
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1441
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 839
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 100
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 224
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 269
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 174
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4189
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bexley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2729
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3091
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2000
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3362
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 148
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 425
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1148
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 324
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7396
+ },
+ {
+   "Year": 2013,
+   "Borough": "Brent",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6021
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3127
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2004
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1052
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 79
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 276
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 577
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 269
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7559
+ },
+ {
+   "Year": 2013,
+   "Borough": "Bromley",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4219
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3093
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1577
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2175
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 162
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 414
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 873
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 301
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 14725
+ },
+ {
+   "Year": 2013,
+   "Borough": "Camden",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4563
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3972
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2834
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2099
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 114
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 394
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1702
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 469
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9990
+ },
+ {
+   "Year": 2013,
+   "Borough": "Croydon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6199
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3588
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2257
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1901
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 162
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 421
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 912
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 424
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9895
+ },
+ {
+   "Year": 2013,
+   "Borough": "Ealing",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6295
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3459
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1984
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1571
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 127
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 339
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 936
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 323
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8634
+ },
+ {
+   "Year": 2013,
+   "Borough": "Enfield",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4529
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2383
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2035
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1313
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 126
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 391
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 475
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 294
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7062
+ },
+ {
+   "Year": 2013,
+   "Borough": "Greenwich",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5118
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2807
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1671
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1891
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 71
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 365
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1022
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 360
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10858
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hackney",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5759
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1522
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1197
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1963
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 85
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 368
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 561
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 244
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8125
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hammersmith and Fulham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3979
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2747
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1871
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1205
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 108
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 281
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 904
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 283
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9002
+ },
+ {
+   "Year": 2013,
+   "Borough": "Haringey",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4472
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2100
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1140
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 899
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 107
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 224
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 503
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 204
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 3959
+ },
+ {
+   "Year": 2013,
+   "Borough": "Harrow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3031
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2483
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1495
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1009
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 51
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 251
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 292
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 186
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 6175
+ },
+ {
+   "Year": 2013,
+   "Borough": "Havering",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 3284
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2867
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2164
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1037
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 104
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 542
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 545
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 294
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7933
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hillingdon",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4985
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2478
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1994
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1501
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 81
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 358
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 480
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 309
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7360
+ },
+ {
+   "Year": 2013,
+   "Borough": "Hounslow",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5069
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2407
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1597
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1412
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 90
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 383
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 944
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 288
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 11192
+ },
+ {
+   "Year": 2013,
+   "Borough": "Islington",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4911
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1754
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 824
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1097
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 127
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 217
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 539
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 211
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 10087
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kensington and Chelsea",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2526
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1191
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 949
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 588
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 39
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 104
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 156
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 134
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 3732
+ },
+ {
+   "Year": 2013,
+   "Borough": "Kingston upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2051
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3892
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2426
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1904
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 152
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 403
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2426
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 448
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 12786
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lambeth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6886
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3306
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2191
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1719
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 103
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 343
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1271
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 410
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7014
+ },
+ {
+   "Year": 2013,
+   "Borough": "Lewisham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5960
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1788
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1208
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 641
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 63
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 154
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 440
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 195
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4543
+ },
+ {
+   "Year": 2013,
+   "Borough": "Merton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2466
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2921
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2086
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1623
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 197
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 423
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2127
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 429
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 11937
+ },
+ {
+   "Year": 2013,
+   "Borough": "Newham",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6173
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2994
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1495
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1807
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 156
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 298
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 886
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 281
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 7917
+ },
+ {
+   "Year": 2013,
+   "Borough": "Redbridge",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4244
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1931
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1149
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 628
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 63
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 144
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 194
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 120
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 3770
+ },
+ {
+   "Year": 2013,
+   "Borough": "Richmond upon Thames",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 1907
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3477
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2380
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 2677
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 140
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 453
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2266
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 428
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 12459
+ },
+ {
+   "Year": 2013,
+   "Borough": "Southwark",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6281
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 1430
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1224
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 480
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 32
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 141
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 247
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 202
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 4050
+ },
+ {
+   "Year": 2013,
+   "Borough": "Sutton",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 2378
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2751
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2076
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 3030
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 131
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 495
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 1262
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 364
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9233
+ },
+ {
+   "Year": 2013,
+   "Borough": "Tower Hamlets",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6370
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 2705
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1802
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1700
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 118
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 318
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 984
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 340
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 8891
+ },
+ {
+   "Year": 2013,
+   "Borough": "Waltham Forest",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 5193
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3098
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 1809
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 1074
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 116
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 329
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 946
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 357
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 9695
+ },
+ {
+   "Year": 2013,
+   "Borough": "Wandsworth",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 4019
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Burglary",
+   "NumOfCrimes": 3910
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Criminal Damage",
+   "NumOfCrimes": 2084
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Drugs",
+   "NumOfCrimes": 4167
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Fraud or Forgery",
+   "NumOfCrimes": 263
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Other Notifiable Offences",
+   "NumOfCrimes": 765
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Robbery",
+   "NumOfCrimes": 2206
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Sexual Offences",
+   "NumOfCrimes": 481
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Theft and Handling",
+   "NumOfCrimes": 32624
+ },
+ {
+   "Year": 2013,
+   "Borough": "Westminster",
+   "crimeType": "Violence Against The Person",
+   "NumOfCrimes": 6911
+ }
+]
